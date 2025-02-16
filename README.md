@@ -53,7 +53,7 @@ Ce document présente le cahier des charges pour la conception et le développem
 
 ### Utilisateur lambda
 
-1. **En tant qu'utilisateur,** je veux pouvoir m'inscrire en fournissant mon nom, prénom, email, date de naissance et mot de passe afin de créer un compte.
+1. **En tant qu'utilisateur,** je veux pouvoir m'inscrire en fournissant mon nom, prénom, email, date de naissance et mot de passe, un token donné par l'école afin de créer un compte.
    - **Critères d'acceptation :**
      - Tous les champs requis doivent être remplis.
      - Le mot de passe doit respecter les règles de complexité.
